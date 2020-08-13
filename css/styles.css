@@ -8,8 +8,18 @@ select {
 
 button {
   margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 h4 {
   padding-bottom: 20px;
+}
+
+img {
+  width: 300px;
+  height: auto;
+}
+
+#result-picard, #result-barclay, #result-janeway, #result-riker, #result-harryKim {
+  display: none;
 }
