@@ -1,40 +1,36 @@
-# _{Application Name}_
+# _Star Trek Character Quiz_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _A website with a brief quiz to tell you what Star Trek character you are., 08/13/2020_
 
 #### By _**{List of contributors}**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_Answer all the questions on this website to reveal which Star Trek character you most associate as._
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+* _Clone this repository._
+* _In the cloned folder, double click on index or index.html. If the file doesn't open, right click on index or index.html and "open with" your browser of choice._
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_No known bugs at this time._
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_Any known issues, please reach out to Jeff Dinsmore by email at hello@jeffdinsmore.com._
 
 ## Technologies Used
 
 * _HTML_
 * _CSS_
-* _Bootstrap_
+* _JavaScrip_
 * _jQuery_
+* _Bootstrap_
 
-### License
+## License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+Copyright (c) 2020 **_Jeff Dinsmore_**
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+This software is licensed under the MIT license.
